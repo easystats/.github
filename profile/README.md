@@ -10,3 +10,4 @@ challenge, do check if there is an *easystats* answer for it in other packages.
 You will slowly uncover how using them together facilitates your life. And, who
 knows, you might even end up using them all.
 
+<center><img src='https://raw.githubusercontent.com/easystats/easystats/main/man/figures/logo_wall.png' width="50%" /></center>
