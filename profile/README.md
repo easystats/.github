@@ -1,5 +1,7 @@
 # *easystats*: An R Framework for Easy Statistical Modeling, Visualization, and Reporting
 
+> “Statistics are like sausages. It’s better not to see them being made, unless you use easystats.”
+> 
 *easystats* is a collection of R packages, which aims to provide a unifying
 and consistent framework to tame, discipline, and harness the scary R statistics
 and their pesky models.
